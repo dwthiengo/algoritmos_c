@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656810073 source:c:\users\davi wohlcke thiengo\onedrive\Área de trabalho\lista 1\exe_16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
